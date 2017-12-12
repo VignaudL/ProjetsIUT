@@ -1,0 +1,8 @@
+Ce dossier contient les principaux projets vu à l'iut.
+-Un projet Fractale réalisé en javafx, le but était de coder un interface permettant la modelisation de fractale en les calculant et les plaquant sur une sphère.
+-Un projet LightBot réalisé en C++ en binôme avec Robin Montfermé, il s'agissait de créer un jeu semblable au Lightbot existant déja tout en travaillant la notion de Prog Objet. le but du jeu est de fournir un code au robot afin qu'il arrive sur la case de fin (ainsi on lui donne par exemple de 2*Avancer + Tourner droite + Avancer)
+-Un projet Monster réalisé en C++ avec Anthony Rubio, il s'agissait de coder un jeu de plateau sur une matrice dans lequel un petit monstre bouge pour réveiller ses autres amis monstres.
+-Un projet shell au travers duquel nous devions réaliser un shell en C++ afin qu'il réalise les fonctionnalités de base d'un vrai shell.
+-Un projet WEB (PT1) réalisé en groupe de 5, avec A.Rubio, R.Montfermé, T.Renaudon et L.Berthelé. Nous devions créer un site web pour un projet en utlisant notamment bootstrap.
+
+Bien d'autres projets sont à venir...
