@@ -4,5 +4,6 @@ Ce dossier contient les principaux projets vu à l'iut.
 -Un projet Monster réalisé en C++ avec Anthony Rubio, il s'agissait de coder un jeu de plateau sur une matrice dans lequel un petit monstre bouge pour réveiller ses autres amis monstres.
 -Un projet shell au travers duquel nous devions réaliser un shell en C++ afin qu'il réalise les fonctionnalités de base d'un vrai shell.
 -Un projet WEB (PT1) réalisé en groupe de 5, avec A.Rubio, R.Montfermé, T.Renaudon et L.Berthelé. Nous devions créer un site web pour un projet en utlisant notamment bootstrap.
+-Un projet WEB réalisé lors du S3, nous devions réalisé un site de e-commerce en groupe de 3. Nous avions le choix sur la forme et nous avons décidé de le faire en Symfony.
 
 Bien d'autres projets sont à venir...
